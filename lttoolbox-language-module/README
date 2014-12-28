@@ -1,7 +1,7 @@
 This is a language transducer for {{languageName}} following the Apertium lttoolbox format and licensed under the GNU General Public License Version 3.
 
 To install,
-	$ ./configure.ac
+	$ ./autogen.sh
 	$ make
 
 To test,
